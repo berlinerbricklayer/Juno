@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jmatch-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Maurer</dc:creator>
+    <dc:title>Juno - Sommer, Sonne, Depression</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>Juno - Sommer, Sonne, Depression</title>
+
+<timer><seconds>240</seconds><include-timer>1</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<matching-exercise>
+<default-right-item>???</default-right-item>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;balkon.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;balkon.mp3&quot; title=&quot;balkon.mp3&quot;&amp;#x003E;balkon.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Auf dem Balkon&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;1338BE&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;On the balcony&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;freunde.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;freunde.mp3&quot; title=&quot;freunde.mp3&quot;&amp;#x003E;freunde.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Und meine Freunde fragen, ob ich rauskommen will&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;1338BE&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;And my friends ask if I want to come out&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;ironie.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;ironie.mp3&quot; title=&quot;ironie.mp3&quot;&amp;#x003E;ironie.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Die Ironie von traurig sein an einem Strand&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;1338BE&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;The irony of being sad on the beach&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;low.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;low.mp3&quot; title=&quot;low.mp3&quot;&amp;#x003E;low.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Hab ich mein All-time-low&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;1338BE&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I have my all time low&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;mindset.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;mindset.mp3&quot; title=&quot;mindset.mp3&quot;&amp;#x003E;mindset.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Ist das ein Mindset oder einfach mein Pech?&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;1338BE&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Is that a mindset, or simply my bad luck?&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;richtung.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;richtung.mp3&quot; title=&quot;richtung.mp3&quot;&amp;#x003E;richtung.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Wenn wieder jeder Richtung Freibad flieht&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;1338BE&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;When again everyone runs in the direction of the pool&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;sommerdepression.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;sommerdepression.mp3&quot; title=&quot;sommerdepression.mp3&quot;&amp;#x003E;sommerdepression.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;F&amp;#x00FC;r immer Sommer, Sonne, Depression&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;1338BE&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Forever summer, sun, depression&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;sonnenbrand.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;sonnenbrand.mp3&quot; title=&quot;sonnenbrand.mp3&quot;&amp;#x003E;sonnenbrand.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Ihr seht die Sonne und ich seh den Sonnenbrand&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;1338BE&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;You all see the sun and I see the sunburn&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;jedesjahr.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;jedesjahr.mp3&quot; title=&quot;jedesjahr.mp3&quot;&amp;#x003E;jedesjahr.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Jedes Jahr gleich schlecht&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;1338BE&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Every year just as bad&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;rausgehen.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;rausgehen.mp3&quot; title=&quot;rausgehen.mp3&quot;&amp;#x003E;rausgehen.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E; </text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Ich will nicht raus&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;1338BE&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I don&apos;t want to go out&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;keinelust.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;keinelust.mp3&quot; title=&quot;keinelust.mp3&quot;&amp;#x003E;keinelust.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;
+</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Hab&apos; keine Lust&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;1338BE&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I have no desire&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+</matching-exercise>
+</data>
+
+<hotpot-config-file>
+<jmatch>
+<exercise-subtitle>Matching exercise</exercise-subtitle>
+<instructions>Match the items on the right to the items on the left.</instructions>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-limited-questions>1</show-limited-questions>
+<questions-to-show>7</questions-to-show>
+<shuffle-questions>1</shuffle-questions>
+<separate-javascript-file>1</separate-javascript-file>
+<next-caption>Next</next-caption>
+<delete-caption>Delete</delete-caption>
+<guess-correct>Alles richtig! Sehr gut! &amp;#x003C;br&amp;#x003E; &amp;#x003C;em&amp;#x003E;All correct! Very good!&amp;#x003C;/em&amp;#x003E;</guess-correct>
+<guess-incorrect>Tut mir Leid. Versuch es nochmal! &amp;#x003C;br&amp;#x003E;  &amp;#x003C;em&amp;#x003E; Sorry. Try again! &amp;#x003C;/em&amp;#x003E;</guess-incorrect>
+</jmatch>
+
+<global>
+<your-score-is>Dein Ergebnis ist... &amp;#x003C;br&amp;#x003E; &amp;#x003C;em&amp;#x003E;Your result is... &amp;#x003C;/em&amp;#x003E;</your-score-is>
+<correct-indicator>&amp;#x2714; Richtig</correct-indicator>
+<incorrect-indicator>&amp;#x2718; Falsch</incorrect-indicator>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>1</include-scorm-12>
+<times-up>Die Zeit ist um! &amp;#x003C;em&amp;#x003E;  Time is up! &amp;#x003C;em&amp;#x003E;</times-up>
+<check-caption>Check</check-caption>
+<ok-caption>OK</ok-caption>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>0</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url>juno.jpg</graphic-url>
+<font-face>&quot;Century Gothic&quot;,&quot;Berlin Sans FB&quot;,&quot;Bauhaus 93&quot;,&quot;Book Antiqua&quot;,Geneva,Arial,sans-serif</font-face>
+<font-size>large</font-size>
+<page-bg-color>#C0C0C0</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#000000</nav-bar-color>
+<formmail-url>http://jeffcoschools.us/cgi-bin/FormMail.pl</formmail-url>
+<email>amaurer@jeffcoschools.us</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jmatch-file>
